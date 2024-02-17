@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pkumar4in@gmail.com**
 
-- ⚡ Fun fact **🧩 Puzzles addict: love solving Rubik's cubes in record time.🧩 Puzzles addict: love solving Rubik's cubes in record time.**
+- ⚡ Fun fact **🧩 Puzzles addict: love solving Rubik's cubes in record time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
