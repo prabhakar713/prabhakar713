@@ -31,6 +31,7 @@ role:            Senior Software Engineer
 location:        Bengaluru, Karnataka, India
 experience:      4+ years across Fintech, CRM & Secure Document Management
 current_focus:   Distributed systems, event-driven microservices, AI/LLM-powered workflows
+currently_at:    Senior Software Engineer — Virtual Data Room (VDR) Platform
 learning:        Kubernetes internals, Event-Driven Architecture at scale, Agentic AI workflows
 ask_me_about:    Node.js, React/Next.js, TypeScript, MongoDB, AWS, Kubernetes, System Design
 fun_fact:        🧩 Rubik's cube speedsolver
@@ -44,7 +45,7 @@ fun_fact:        🧩 Rubik's cube speedsolver
 <tr>
 <td width="50%" valign="top">
 
-**🏢 SS&C Technologies** — *Senior Software Engineer*
+**🏢 Senior Software Engineer**
 `Feb 2026 – Present`
 
 Building a mission-critical **Virtual Data Room (VDR)** platform — secure document management at enterprise scale.
