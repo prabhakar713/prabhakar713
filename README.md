@@ -63,11 +63,16 @@
 
 </div>
 
+<!-- Gradient divider — matches the header's palette for visual continuity. -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=2" width="100%" alt=""/>
+</div>
+
 <br/>
 
 <!-- ══════════════════════ 4. PROFESSIONAL INTRODUCTION ══════════════════════ -->
 
-## The Pitch
+## &nbsp;The Pitch
 
 Most engineers pick one lane. I built a career at the intersection of five.
 
@@ -294,9 +299,16 @@ Part solution architect, part forward-deployed engineer for banks, insurers, and
 
 <br/>
 
+<!-- Divider between story/impact and technical detail. -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=2" width="100%" alt=""/>
+</div>
+
+<br/>
+
 <!-- ══════════════════════ 11 + 12. SKILLS + TECH STACK ══════════════════════ -->
 
-## Tech Stack
+## &nbsp;Tech Stack
 
 <div align="center">
 
@@ -577,9 +589,16 @@ I use LLMs the same way I use any other dependency — **with an eval, a fallbac
 
 <br/>
 
+<!-- Divider between deep-dive expertise and the project showcase. -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=2" width="100%" alt=""/>
+</div>
+
+<br/>
+
 <!-- ══════════════════════ 17. FEATURED PROJECTS ══════════════════════ -->
 
-## Featured Projects
+## &nbsp;Featured Projects
 
 <table>
 <tr>
@@ -640,39 +659,46 @@ Sandbox projects across TypeScript, Python, and infra tooling &mdash; the place 
 
 <br/>
 
-<!-- ══════════════════════ 18–22. GITHUB ANALYTICS + STREAK + TOP LANGS + TROPHIES ══════════════════════ -->
+<!-- Divider before the data-heavy analytics block. -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=2" width="100%" alt=""/>
+</div>
 
-## GitHub Analytics
+<br/>
+
+<!-- ══════════════════════ 18–22. GITHUB ANALYTICS ══════════════════════ -->
+
+## &nbsp;GitHub Analytics
 
 <div align="center">
 
-<!-- Reliable primary stat row (shields.io dynamic badges — always render) -->
-<a href="https://github.com/prabhakar713?tab=repositories">
+<!-- Reliable stat row — shields.io + hardcoded static badges only. Every one of these renders. -->
+<a href="https://github.com/prabhakar713">
   <img src="https://img.shields.io/github/followers/prabhakar713?style=for-the-badge&label=Followers&color=00c6ff&labelColor=0f2027&logo=github&logoColor=white" alt="Followers"/>
 </a>
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fprabhakar713&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=00c6ff&labelColor=0f2027&logo=github&logoColor=white" alt="Public repos"/>
 <a href="https://github.com/prabhakar713?tab=stars">
   <img src="https://img.shields.io/github/stars/prabhakar713?style=for-the-badge&label=Stars&color=00c6ff&labelColor=0f2027&logo=github&logoColor=white&affiliations=OWNER" alt="Stars"/>
 </a>
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fprabhakar713&query=%24.created_at&label=On%20GitHub%20Since&style=for-the-badge&color=00c6ff&labelColor=0f2027&logo=github&logoColor=white" alt="Since"/>
+<a href="https://github.com/prabhakar713?tab=repositories">
+  <img src="https://img.shields.io/badge/Public%20Repos-17-00c6ff?style=for-the-badge&labelColor=0f2027&logo=github&logoColor=white" alt="Public repos"/>
+</a>
+<img src="https://img.shields.io/github/last-commit/prabhakar713/prabhakar713?style=for-the-badge&label=Last%20Push&color=00c6ff&labelColor=0f2027&logo=github&logoColor=white" alt="Last push"/>
+<img src="https://img.shields.io/badge/Building%20Since-2019-00c6ff?style=for-the-badge&labelColor=0f2027&logo=github&logoColor=white" alt="Building since 2019"/>
 
 <br/><br/>
 
-<!-- Cards from streak-stats.demolab.com (DenverCoder1's own host, very reliable)
-     and github-readme-activity-graph.vercel.app (reliable). -->
-<img
-  src="https://streak-stats.demolab.com?user=prabhakar713&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C6FF&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF"
-  width="49%"
-  alt="GitHub Streak"
-/>
-<img
-  src="https://github-readme-stats.vercel.app/api?username=prabhakar713&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400"
-  width="49%"
-  alt="GitHub Stats"
-/>
+<!-- Streak (streak-stats.demolab.com — very reliable) — centered, single card. -->
+<a href="https://git.io/streak-stats">
+  <img
+    src="https://streak-stats.demolab.com?user=prabhakar713&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C6FF&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF&sideNums=FFFFFF&sideLabels=00C6FF&dates=64748B"
+    width="72%"
+    alt="GitHub Streak"
+  />
+</a>
 
 <br/><br/>
 
+<!-- Activity graph (github-readme-activity-graph.vercel.app — reliable). -->
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=prabhakar713&theme=react-dark&hide_border=true&bg_color=0d1117&color=00c6ff&line=00c6ff&point=ffffff&area=true&area_color=00c6ff"
   width="100%"
@@ -681,39 +707,54 @@ Sandbox projects across TypeScript, Python, and infra tooling &mdash; the place 
 
 <br/><br/>
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhakar713&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=86400"
-  width="49%"
-  alt="Top Languages"
-/>
+<!-- Contribution grid (ghchart.rshah.org — reliable, always renders). -->
 <img
   src="https://ghchart.rshah.org/00c6ff/prabhakar713"
-  width="49%"
-  alt="Contribution chart"
+  width="100%"
+  alt="Full-year contribution grid"
 />
+
+<br/><br/>
+
+<!-- Language emphasis strip: shields.io badges instead of a broken top-langs card. -->
+<sub><b>Primary Languages</b></sub>
+<br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
 
 </div>
 
 <br/>
 
-<!-- ══════════════════════ 22. GITHUB TROPHIES (resilient version) ══════════════════════ -->
+<!-- ══════════════════════ 22. RECOGNITION STRIP (replaces broken trophy service) ══════════════════════ -->
 
-## GitHub Trophies
+## Recognition Strip
 
 <div align="center">
 
-<a href="https://github.com/prabhakar713">
-  <img src="https://github-profile-trophy.vercel.app/?username=prabhakar713&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies"/>
-</a>
+<sub><i>A static, always-rendering recognition strip &mdash; the classic trophy service is currently offline, so this is the durable alternative.</i></sub>
 
 <br/><br/>
 
-<!-- Static recognition strip: always renders even when github-profile-trophy is down. -->
 <img src="https://img.shields.io/badge/%F0%9F%A5%87-Hackathon%20Winner-0f2027?style=for-the-badge&labelColor=00c6ff" alt="Hackathon Winner"/>
 <img src="https://img.shields.io/badge/%E2%AD%90-Raising%20the%20Bar-0f2027?style=for-the-badge&labelColor=00c6ff" alt="Raising the Bar"/>
 <img src="https://img.shields.io/badge/%E2%9A%A1-Lightning%20Bolt%20Team-0f2027?style=for-the-badge&labelColor=00c6ff" alt="Lightning Bolt Team"/>
+
+<br/>
+
 <img src="https://img.shields.io/badge/%F0%9F%94%92-Zero%20P0%20Security%20Incidents-0f2027?style=for-the-badge&labelColor=00c6ff" alt="Zero P0"/>
 <img src="https://img.shields.io/badge/%F0%9F%8C%8F-APAC%20%2B%20NA%20Delivery-0f2027?style=for-the-badge&labelColor=00c6ff" alt="APAC + NA"/>
+<img src="https://img.shields.io/badge/%F0%9F%9A%80-80%25%20Setup%20Time%20Cut-0f2027?style=for-the-badge&labelColor=00c6ff" alt="80% cut"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/%F0%9F%94%A7-Owned%20Auth%20%2B%20Audit%20%2B%20On--Call-0f2027?style=for-the-badge&labelColor=00c6ff" alt="Owned auth"/>
+<img src="https://img.shields.io/badge/%F0%9F%A7%A0-LangGraph%20Agentic%20Workflows-0f2027?style=for-the-badge&labelColor=00c6ff" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/%E2%98%B8%EF%B8%8F-Kubernetes%20%2B%20Helm%20in%20Prod-0f2027?style=for-the-badge&labelColor=00c6ff" alt="K8s in prod"/>
 
 </div>
 
@@ -956,16 +997,27 @@ Sandbox projects across TypeScript, Python, and infra tooling &mdash; the place 
 
 <br/>
 
+<!-- Divider before the call-to-action / contact block. -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,30&height=2" width="100%" alt=""/>
+</div>
+
+<br/>
+
 <!-- ══════════════════════ 32. CONTACT SECTION ══════════════════════ -->
 
-## Let's Talk
+## &nbsp;Let's Talk
 
 <div align="center">
 
-Open to select opportunities in:
-**Full-Stack · Forward-Deployed · AI / LLM Engineering · Senior Solution Engineering**
+<!-- Hire-me banner: uses capsule-render "cylinder" for a subtle premium card look. -->
+<img
+  src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=2,12,30&height=100&text=OPEN%20TO%20SENIOR%20ENGINEERING%20ROLES&fontSize=22&fontColor=ffffff&fontAlignY=52&desc=Full-Stack%20%C2%B7%20Forward-Deployed%20%C2%B7%20AI%2FLLM%20%C2%B7%20Senior%20Solution%20Engineering&descAlignY=78&descSize=12"
+  width="100%"
+  alt="Open to senior engineering roles"
+/>
 
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/prabhakar-kumar-7b136a1a1">
   <img src="https://img.shields.io/badge/LinkedIn-Message%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -976,21 +1028,32 @@ Open to select opportunities in:
 <a href="https://github.com/prabhakar713">
   <img src="https://img.shields.io/badge/GitHub-%40prabhakar713-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+<a href="mailto:prabhakar.hireme@gmail.com?subject=30-min%20intro%20chat">
+  <img src="https://img.shields.io/badge/Book%20a%2030--min%20Intro-00c6ff?style=for-the-badge&logo=googlemeet&logoColor=white&labelColor=0f2027" alt="Book a 30-min intro"/>
+</a>
 
 <br/><br/>
 
 <table>
-  <tr>
-    <td align="center" width="50%">
-      <h4>Best way to reach me</h4>
-      LinkedIn DM or email — I read both daily and reply within 24 hours on weekdays.
-    </td>
-    <td align="center" width="50%">
-      <h4>What I say yes to</h4>
-      Senior IC roles, AI/LLM product engineering, forward-deployed engineering, and technical solution engineering at high-trust teams.
-    </td>
-  </tr>
+<tr>
+<td align="center" width="33%">
+<h4>Reach me on</h4>
+LinkedIn DM or email — read daily, replied to within 24 hours on weekdays.
+</td>
+<td align="center" width="33%">
+<h4>Yes to</h4>
+Senior IC roles, AI/LLM product engineering, forward-deployed engineering, and technical solution engineering at high-trust teams.
+</td>
+<td align="center" width="33%">
+<h4>Not looking for</h4>
+Cold recruiter blasts, unpaid "quick chats", or crypto-in-name-only roles. Everything else — always happy to talk.
+</td>
+</tr>
 </table>
+
+<br/>
+
+<sub><i>Based in Bangalore, India &middot; open to remote and hybrid &middot; work-authorized in India</i></sub>
 
 </div>
 
