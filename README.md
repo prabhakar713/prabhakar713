@@ -293,8 +293,8 @@ availability: open to select senior roles
 
 I design systems the way I would want to inherit them: **small services, explicit contracts, and no magic.**
 
-<details>
-<summary><b>System sketch (click to expand)</b></summary>
+<details open>
+<summary><b>System sketch (click to collapse)</b></summary>
 
 <br/>
 
@@ -317,8 +317,8 @@ flowchart LR
 
 </details>
 
-<details>
-<summary><b>Design principles I actually follow</b></summary>
+<details open>
+<summary><b>Design principles I actually follow (click to collapse)</b></summary>
 
 <br/>
 
@@ -339,8 +339,8 @@ flowchart LR
 
 Security is not a feature I bolt on at the end &mdash; in BFSI and secure-data platforms it *is* the product.
 
-<details>
-<summary><b>Areas I own</b></summary>
+<details open>
+<summary><b>Areas I own (click to collapse)</b></summary>
 
 <br/>
 
@@ -376,8 +376,8 @@ Security is not a feature I bolt on at the end &mdash; in BFSI and secure-data p
 
 I use LLMs the same way I use any other dependency &mdash; **with an eval, a fallback, and a cost budget.**
 
-<details>
-<summary><b>How I build AI product features</b></summary>
+<details open>
+<summary><b>How I build AI product features (click to collapse)</b></summary>
 
 <br/>
 
@@ -398,8 +398,8 @@ I use LLMs the same way I use any other dependency &mdash; **with an eval, a fal
 
 ## &nbsp;Cloud &amp; Infrastructure Expertise
 
-<details>
-<summary><b>What I run and how I run it</b></summary>
+<details open>
+<summary><b>What I run and how I run it (click to collapse)</b></summary>
 
 <br/>
 
