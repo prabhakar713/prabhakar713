@@ -37,18 +37,6 @@ Most engineers pick one lane. I've built a career at the intersection of five:
 
 <br/>
 
-## 🎯 Five Roles, One Engineer
-
-<table>
-<tr><td width="4%">🧩</td><td width="22%"><b>Full-Stack Engineer</b></td><td width="74%">Own features from database schema to pixel-perfect UI — Node.js/Express & FastAPI backends, React/Next.js frontends, MongoDB/PostgreSQL data layers, containerized with Docker and deployed on Kubernetes + Helm.</td></tr>
-<tr><td>🛰️</td><td><b>Forward Deployed Engineer</b></td><td>Embedded directly inside enterprise BFSI accounts across APAC & North America — diagnosed live production issues on client infrastructure and shipped fixes/configs myself instead of routing through a backlog.</td></tr>
-<tr><td>🤖</td><td><b>AI / LLM Engineer</b></td><td>Designed and shipped an AI-driven lead scoring, cohorting & real-time allocation engine that routes leads across AI outreach, bot calling, and human sellers — built on OpenAI API + custom prompt pipelines.</td></tr>
-<tr><td>💼</td><td><b>Senior Solution Engineer</b></td><td>Cut CRM setup & validation effort by <b>80%</b> through automation; integrated Salesforce, Slack & Outlook into live client workflows; the go-to person for "make this actually work for the customer."</td></tr>
-<tr><td>🏗️</td><td><b>Senior Software Engineer</b></td><td>Architecting RBAC/ABAC authorization, audit-logging, and event-driven microservices (RabbitMQ) for a mission-critical Virtual Data Room platform — Redis + HashiCorp Vault in the security layer, cross-region MongoDB at scale.</td></tr>
-</table>
-
-<br/>
-
 ## 📈 Impact, In Numbers
 
 <div align="center">
