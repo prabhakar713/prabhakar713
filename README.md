@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30&height=260&section=header&text=PRABHAKAR%20KUMAR&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20%C2%B7%20Forward%20Deployed%20%C2%B7%20AI%2FLLM%20%C2%B7%20Senior%20Solution%20%26%20Software%20Engineer&descAlignY=52&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30&height=260&section=header&text=PRABHAKAR%20KUMAR&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Forward%20Deployed%20AI%20Senior%20Solution%20and%20Software%20Engineer&descAlignY=52&descSize=17" width="100%"/>
 
 <a href="https://linkedin.com/in/prabhakar-kumar-7b136a1a1"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:prabhakar.hireme@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -215,7 +215,7 @@ RBAC/ABAC authorization, audit logging, and event-driven microservices for enter
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=prabhakar713&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhakar713&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=prabhakar713&theme=tokyonight&hide_border=true" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhakar713&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="49%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabhakar713&theme=react-dark&hide_border=true" width="49%"/>
 </div>
