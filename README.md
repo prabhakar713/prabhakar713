@@ -438,7 +438,8 @@ I use LLMs the same way I use any other dependency &mdash; **with an eval, a fal
 
 ## &nbsp;Featured Projects
 
-### Virtual Data Room Platform
+<img src="https://img.shields.io/badge/01-Virtual%20Data%20Room%20Platform-0f2027?style=for-the-badge&labelColor=00c6ff" alt="01 · Virtual Data Room Platform"/>
+<br/>
 <sub><i>Senior SWE &middot; Security &middot; Distributed Systems</i></sub>
 
 Enterprise-grade secure document collaboration for M&amp;A and due-diligence workflows. Owned the RBAC/ABAC authorization layer, the audit-logging framework, the event-driven microservices topology, and cross-region MongoDB replication.
@@ -453,7 +454,8 @@ Enterprise-grade secure document collaboration for M&amp;A and due-diligence wor
 
 ---
 
-### Intelligent Lead Platform
+<img src="https://img.shields.io/badge/02-Intelligent%20Lead%20Platform-0f2027?style=for-the-badge&labelColor=00c6ff" alt="02 · Intelligent Lead Platform"/>
+<br/>
 <sub><i>AI Engineering &middot; Full-Stack</i></sub>
 
 AI-driven lead scoring, cohorting, and real-time allocation &mdash; routes leads across AI outreach, bot calling, and human sellers based on live signals. Built end-to-end from the ML-served scoring API to the operator dashboard.
@@ -468,7 +470,8 @@ AI-driven lead scoring, cohorting, and real-time allocation &mdash; routes leads
 
 ---
 
-### CRM Automation Platform
+<img src="https://img.shields.io/badge/03-CRM%20Automation%20Platform-0f2027?style=for-the-badge&labelColor=00c6ff" alt="03 · CRM Automation Platform"/>
+<br/>
 <sub><i>Full-Stack &middot; Platform Engineering</i></sub>
 
 Data setup, validation, scheduling, and broadcast automation for enterprise CRM rollouts. **Cut setup time by 80%** &mdash; the reason the biggest APAC banks and insurers could onboard in days, not months.
@@ -481,7 +484,8 @@ Data setup, validation, scheduling, and broadcast automation for enterprise CRM 
 
 ---
 
-### Voice &rarr; Text
+<img src="https://img.shields.io/badge/04-Voice%20%E2%86%92%20Text-0f2027?style=for-the-badge&labelColor=00c6ff" alt="04 · Voice to Text"/>
+<br/>
 <sub><i>Applied AI &middot; Product</i></sub>
 
 Real-time voice-to-text pipeline with streaming transcription and speaker awareness. Built as an applied-AI exploration on top of streaming speech APIs and LLM post-processing for cleanup and structuring.
@@ -493,7 +497,8 @@ Real-time voice-to-text pipeline with streaming transcription and speaker awaren
 
 ---
 
-### AI Applications
+<img src="https://img.shields.io/badge/05-AI%20Applications-0f2027?style=for-the-badge&labelColor=00c6ff" alt="05 · AI Applications"/>
+<br/>
 <sub><i>LLM &middot; Agents &middot; Prompt Engineering</i></sub>
 
 Internal AI tools &mdash; document Q&amp;A copilots, agentic workflows on LangGraph, and CRM-side LLM assistants for enterprise reps. All shipped with evals, cost budgets, and guardrails.
@@ -723,23 +728,42 @@ Internal AI tools &mdash; document Q&amp;A copilots, agentic workflows on LangGr
 
 <br/>
 
-<!-- ══════════════════════ 29. AWARDS (badges — wrap naturally) ══════════════════════ -->
+<!-- ══════════════════════ 29. AWARDS (rich stacked cards — mobile-safe) ══════════════════════ -->
 
 ## &nbsp;Awards &amp; Recognition
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/%F0%9F%A5%87-Hackathon%20Winner%20%C2%B7%20Vymothon%20%C2%B7%20New%20Innovative%20Award-0f2027?style=for-the-badge&labelColor=00c6ff" alt="Hackathon Winner — Vymothon"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/%E2%AD%90-Raising%20the%20Bar%20Award%20%C2%B7%20Vymo-0f2027?style=for-the-badge&labelColor=00c6ff" alt="Raising the Bar — Vymo"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/%E2%9A%A1-Lightning%20Bolt%20Team%20Award%20%C2%B7%20Vymo-0f2027?style=for-the-badge&labelColor=00c6ff" alt="Lightning Bolt Team — Vymo"/>
+<img src="https://img.shields.io/badge/%F0%9F%8F%86-AWARDS-0f2027?style=for-the-badge&labelColor=00c6ff" alt="Awards"/>
 
 </div>
+
+<br/>
+
+### 🥇 &nbsp; Hackathon Winner &nbsp;&middot;&nbsp; *New Innovative Award*
+**Vymothon** &mdash; the internal AI-driven CRM hackathon at Vymo. Led the winning team from ideation through demo, shipping an AI-powered CRM feature end-to-end in the hackathon window.
+
+<img src="https://img.shields.io/badge/Vymo-0f2027?style=flat-square&labelColor=00c6ff" alt="Vymo"/>
+<img src="https://img.shields.io/badge/AI%20%2F%20LLM-0f2027?style=flat-square&labelColor=00c6ff" alt="AI/LLM"/>
+<img src="https://img.shields.io/badge/Team%20Lead-0f2027?style=flat-square&labelColor=00c6ff" alt="Team Lead"/>
+
+---
+
+### ⭐ &nbsp; Raising the Bar Award &nbsp;&middot;&nbsp; *Solution Engineering Excellence*
+**Vymo** &mdash; company-wide recognition for consistently going above the expectations of a Senior Solution Engineer &mdash; owned customer outcomes, engineering rigor, and cross-functional impact.
+
+<img src="https://img.shields.io/badge/Vymo-0f2027?style=flat-square&labelColor=00c6ff" alt="Vymo"/>
+<img src="https://img.shields.io/badge/Customer%20Impact-0f2027?style=flat-square&labelColor=00c6ff" alt="Customer Impact"/>
+<img src="https://img.shields.io/badge/Engineering%20Rigor-0f2027?style=flat-square&labelColor=00c6ff" alt="Engineering Rigor"/>
+
+---
+
+### ⚡ &nbsp; Lightning Bolt Team Award &nbsp;&middot;&nbsp; *Cross-functional GTM Impact*
+**Vymo** &mdash; team-level recognition for a high-velocity go-to-market win with enterprise BFSI customers. Partnered with product, sales, and CS to compress a multi-quarter rollout into weeks.
+
+<img src="https://img.shields.io/badge/Vymo-0f2027?style=flat-square&labelColor=00c6ff" alt="Vymo"/>
+<img src="https://img.shields.io/badge/GTM-0f2027?style=flat-square&labelColor=00c6ff" alt="GTM"/>
+<img src="https://img.shields.io/badge/BFSI-0f2027?style=flat-square&labelColor=00c6ff" alt="BFSI"/>
 
 <br/>
 
