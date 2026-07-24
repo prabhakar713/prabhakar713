@@ -1,111 +1,93 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=230&section=header&text=Prabhakar%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20%7C%20Forward%20Deployed%20%7C%20AI%20Engineer%20%E2%80%94%20Senior%20Software%20%26%20Solution%20Engineer&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30&height=260&section=header&text=PRABHAKAR%20KUMAR&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20%C2%B7%20Forward%20Deployed%20%C2%B7%20AI%2FLLM%20%C2%B7%20Senior%20Solution%20%26%20Software%20Engineer&descAlignY=52&descSize=17" width="100%"/>
 
-<a href="https://linkedin.com/in/prabhakar-kumar-7b136a1a1">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:prabhakar.hireme@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/prabhakar713">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://linkedin.com/in/prabhakar-kumar-7b136a1a1"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:prabhakar.hireme@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/prabhakar713"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=prabhakar713&label=Profile%20Views&color=00c6ff&style=for-the-badge"/>
 
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=760&lines=Senior+Software+Engineer+%7C+4%2B+Years+Building+at+Scale;Full-Stack+Engineer+%E2%80%94+Node.js+%E2%80%A2+React%2FNext.js+%E2%80%A2+TypeScript;Forward+Deployed+Engineer+%E2%80%94+Enterprise+BFSI+%26+SaaS+Rollouts;AI%2FLLM+Engineer+%E2%80%94+Agentic+Workflows+%26+Prompt+Systems;Senior+Solution+Engineer+%E2%80%94+APAC+%26+North+America" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=800&color=00C6FF&center=true&vCenter=true&width=800&lines=I+build+the+full+stack+%E2%80%94+then+embed+with+the+client+to+ship+it;4%2B+Years+%7C+Fintech+%2F+BFSI+%2F+Secure+Document+Systems;80%25+Faster+CRM+Rollouts+%7C+Hackathon-Winning+AI+Products;Node.js+%E2%80%A2+React%2FNext.js+%E2%80%A2+Kubernetes+%E2%80%A2+LLM+Workflows;Currently%3A+Senior+Software+Engineer+%40+Secure+VDR+Platform" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Full--Stack_Engineer-00c6ff?style=flat-square&labelColor=0f2027"/>
-<img src="https://img.shields.io/badge/Forward_Deployed_Engineer-2c5364?style=flat-square&labelColor=0f2027"/>
-<img src="https://img.shields.io/badge/AI%2FLLM_Engineer-10A37F?style=flat-square&labelColor=0f2027"/>
-<img src="https://img.shields.io/badge/Senior_Solution_Engineer-4A4A4A?style=flat-square&labelColor=0f2027"/>
-<img src="https://img.shields.io/badge/Senior_Software_Engineer-326CE5?style=flat-square&labelColor=0f2027"/>
+<table>
+<tr>
+<td align="center" width="20%"><img src="https://img.shields.io/badge/4%2B-Years%20Experience-0f2027?style=for-the-badge&labelColor=00c6ff"/></td>
+<td align="center" width="20%"><img src="https://img.shields.io/badge/80%25-Effort%20Cut-0f2027?style=for-the-badge&labelColor=00c6ff"/></td>
+<td align="center" width="20%"><img src="https://img.shields.io/badge/3-Award%20Winning-0f2027?style=for-the-badge&labelColor=00c6ff"/></td>
+<td align="center" width="20%"><img src="https://img.shields.io/badge/APAC%20%2B%20NA-Enterprise%20Clients-0f2027?style=for-the-badge&labelColor=00c6ff"/></td>
+<td align="center" width="20%"><img src="https://img.shields.io/badge/5-Roles%20in%20One-0f2027?style=for-the-badge&labelColor=00c6ff"/></td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
-## 🚀 About Me
+## 👋 The Pitch
 
-I'm a **Senior Software Engineer** who moves fluidly across four hats: **full-stack builder**, **forward-deployed engineer** embedded with enterprise clients, **AI/LLM workflow engineer**, and **solution engineer** driving adoption at BFSI scale. I ship product end-to-end — architecture, backend, frontend, infra, and the AI layer on top — and I've spent as much time in customer war-rooms solving live production issues as I have writing code.
+Most engineers pick one lane. I've built a career at the intersection of five:
 
-```yaml
-name:            Prabhakar Kumar
-roles:           Full-Stack Engineer · Forward Deployed Engineer · AI/LLM Engineer ·
-                  Senior Solution Engineer · Senior Software Engineer
-location:        Bengaluru, Karnataka, India
-experience:      4+ years across Fintech, CRM & Secure Document Management (BFSI, APAC & NA)
-current_focus:   Distributed systems, event-driven microservices, agentic AI workflows
-learning:        Kubernetes internals @ scale, Event-Driven Architecture, Agentic AI
-ask_me_about:    Node.js, React/Next.js, TypeScript, MongoDB, AWS, Kubernetes, System Design, LLM Workflows
-fun_fact:        🧩 Rubik's cube speedsolver
-```
+> I design and ship full systems end-to-end — **backend, frontend, infra, security, and the AI layer on top** — then I'm the one who sits *with the client* to make sure it actually works in production. That combination — **builder + forward-deployed problem-solver + AI engineer** — is why enterprise BFSI teams across APAC and North America have trusted me to own their platform experience for 4+ years.
 
 <br/>
 
-## 🎯 Why I'm a Fit for Multiple Engineering Tracks
+## 🎯 Five Roles, One Engineer
 
 <table>
-<tr>
-<th width="20%">Track</th>
-<th width="80%">Evidence</th>
-</tr>
-<tr>
-<td><b>🧩 Full-Stack Engineer</b></td>
-<td>Own features from schema to UI — Node.js/Express & FastAPI backends, React/Next.js frontends, MongoDB/PostgreSQL data layers, deployed on Kubernetes with Helm.</td>
-</tr>
-<tr>
-<td><b>🛰️ Forward Deployed Engineer</b></td>
-<td>Sat directly with enterprise BFSI clients across APAC & North America, translating live production issues and messy requirements into shipped fixes and configured platform capability — not just tickets handed off to a backlog.</td>
-</tr>
-<tr>
-<td><b>🤖 AI/LLM Engineer</b></td>
-<td>Built an AI-driven lead scoring, cohorting & real-time allocation engine routing leads across AI outreach, bot calling, and human sellers; hands-on with prompt engineering and OpenAI API-based workflows.</td>
-</tr>
-<tr>
-<td><b>💼 Senior Solution Engineer</b></td>
-<td>Cut CRM setup/validation effort by <b>80%</b> through automation; integrated Salesforce, Slack & Outlook into client workflows; led a hackathon team to a company-wide innovation award.</td>
-</tr>
-<tr>
-<td><b>🏗️ Senior Software Engineer</b></td>
-<td>Designing RBAC/ABAC authorization & audit-logging frameworks and event-driven microservices (RabbitMQ) for a mission-critical Virtual Data Room platform, with Redis & HashiCorp Vault in the security layer.</td>
-</tr>
+<tr><td width="4%">🧩</td><td width="22%"><b>Full-Stack Engineer</b></td><td width="74%">Own features from database schema to pixel-perfect UI — Node.js/Express & FastAPI backends, React/Next.js frontends, MongoDB/PostgreSQL data layers, containerized with Docker and deployed on Kubernetes + Helm.</td></tr>
+<tr><td>🛰️</td><td><b>Forward Deployed Engineer</b></td><td>Embedded directly inside enterprise BFSI accounts across APAC & North America — diagnosed live production issues on client infrastructure and shipped fixes/configs myself instead of routing through a backlog.</td></tr>
+<tr><td>🤖</td><td><b>AI / LLM Engineer</b></td><td>Designed and shipped an AI-driven lead scoring, cohorting & real-time allocation engine that routes leads across AI outreach, bot calling, and human sellers — built on OpenAI API + custom prompt pipelines.</td></tr>
+<tr><td>💼</td><td><b>Senior Solution Engineer</b></td><td>Cut CRM setup & validation effort by <b>80%</b> through automation; integrated Salesforce, Slack & Outlook into live client workflows; the go-to person for "make this actually work for the customer."</td></tr>
+<tr><td>🏗️</td><td><b>Senior Software Engineer</b></td><td>Architecting RBAC/ABAC authorization, audit-logging, and event-driven microservices (RabbitMQ) for a mission-critical Virtual Data Room platform — Redis + HashiCorp Vault in the security layer, cross-region MongoDB at scale.</td></tr>
 </table>
 
 <br/>
 
-## 💼 Where I've Made an Impact
+## 📈 Impact, In Numbers
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%"><h2>80%</h2>reduction in CRM setup & validation effort via automation</td>
+<td align="center" width="25%"><h2>2</h2>continents of enterprise BFSI clients supported (APAC + NA)</td>
+<td align="center" width="25%"><h2>3</h2>company awards for engineering & innovation impact</td>
+<td align="center" width="25%"><h2>1st</h2>place, Vymothon — AI-driven CRM hackathon</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+## 💼 Career Timeline
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🏢 Senior Software Engineer**
+### 🏢 Senior Software Engineer
 `Feb 2026 – Present`
-
-Building a mission-critical **Virtual Data Room (VDR)** platform — secure document management at enterprise scale.
-- Designed RBAC/ABAC authorization & audit-logging frameworks
-- Built event-driven microservices with **RabbitMQ**
-- Optimized MongoDB pipelines for high-volume cross-region replication
-- Deployed on **Kubernetes** with Helm, Redis & HashiCorp Vault
+**Virtual Data Room (VDR) Platform** — secure document management at enterprise scale.
+- 🔐 Designed RBAC/ABAC authorization & audit-logging frameworks
+- 🔄 Built event-driven microservices with **RabbitMQ**
+- 🗄️ Optimized MongoDB pipelines for high-volume cross-region replication
+- ☸️ Deployed on **Kubernetes** with Helm, Redis & HashiCorp Vault
 
 </td>
 <td width="50%" valign="top">
 
-**🏢 Vymo Technologies** — *Senior Solution Engineer*
+### 🏢 Vymo Technologies — *Senior Solution Engineer*
 `Jul 2022 – Feb 2026`
-
 Led CRM platforms for enterprise **BFSI** clients across APAC & North America — part solution architect, part forward-deployed engineer.
-- Cut CRM setup/validation effort by **80%** via automation
-- Built high-concurrency React dashboards for large datasets
-- Integrated Salesforce, Slack & Outlook APIs
-- Led **Vymothon** hackathon team → 🏆 New Innovative Award
+- ⚡ Cut CRM setup/validation effort by **80%** via automation
+- 📊 Built high-concurrency React dashboards for large datasets
+- 🔗 Integrated Salesforce, Slack & Outlook APIs
+- 🏆 Led **Vymothon** hackathon team → New Innovative Award
 
 </td>
 </tr>
@@ -187,50 +169,79 @@ Led CRM platforms for enterprise **BFSI** clients across APAC & North America �
 ## 🌟 Featured Projects
 
 <div align="center">
-
 <a href="https://github.com/prabhakar713/Voice-to-Text">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=prabhakar713&repo=Voice-to-Text&theme=react&hide_border=true&bg_color=0d1117&title_color=00c6ff&text_color=c9d1d9"/>
 </a>
-
 </div>
 
-**🧠 Intelligent Lead Platform (AI Engineering)** — AI-driven lead scoring, cohorting & real-time intelligent allocation, routing leads across AI outreach, bot calling, and human sellers.
-`React.js` `TypeScript` `Next.js` `Python` `Node.js` `PostgreSQL` `MongoDB`
+<table>
+<tr>
+<td width="33%" valign="top">
 
-**⚙️ Showman Data Automation Service (Full-Stack)** — Full-stack CRM automation platform cutting data setup time by 80%, with scheduler, validation & broadcast modules.
+**🧠 Intelligent Lead Platform**
+*AI Engineering*
+
+AI-driven lead scoring, cohorting & real-time allocation — routes leads across AI outreach, bot calling, and human sellers.
+
+`React` `TypeScript` `Next.js` `Python` `Node.js` `PostgreSQL` `MongoDB`
+
+</td>
+<td width="33%" valign="top">
+
+**⚙️ Showman Data Automation**
+*Full-Stack*
+
+CRM automation platform cutting data setup time by 80%, with scheduler, validation & broadcast modules.
+
 `Node.js` `Express.js` `React.js` `MongoDB` `Microservices`
 
-**🔐 Virtual Data Room Platform (Senior SWE / Security)** — RBAC/ABAC authorization, audit logging, and event-driven microservices for enterprise-grade secure document sharing.
-`Node.js` `RabbitMQ` `Kubernetes` `Redis` `HashiCorp Vault` `MongoDB`
+</td>
+<td width="33%" valign="top">
+
+**🔐 Virtual Data Room Platform**
+*Senior SWE / Security*
+
+RBAC/ABAC authorization, audit logging, and event-driven microservices for enterprise-grade secure document sharing.
+
+`Node.js` `RabbitMQ` `Kubernetes` `Redis` `Vault`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=prabhakar713&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhakar713&theme=tokyonight&hide_border=true" width="49%"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhakar713&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="49%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabhakar713&theme=react-dark&hide_border=true" width="49%"/>
-
 </div>
 
 <br/>
 
 ## 🏆 Recognition
 
-- 🥇 **Hackathon Winner** — Vymothon: Led team to build an AI-driven CRM solution *(New Innovative Award)*
-- ⭐ **"Raising the Bar" Award** — Solution Specialist, Vymo
-- ⚡ **"Lightning Bolt" Team Award** — GTM, Vymo
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">🥇<br/><b>Hackathon Winner</b><br/>Vymothon — AI-driven CRM<br/><i>New Innovative Award</i></td>
+<td align="center" width="33%">⭐<br/><b>Raising the Bar Award</b><br/>Solution Specialist<br/><i>Vymo</i></td>
+<td align="center" width="33%">⚡<br/><b>Lightning Bolt Team Award</b><br/>GTM<br/><i>Vymo</i></td>
+</tr>
+</table>
+</div>
 
 <br/>
 
 <div align="center">
 
-### 💭 "Code is read far more often than it is written — I build for clarity, scale, and the next engineer."
+### 💭 "I don't just write the code — I make sure it survives contact with a real customer."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
+**📬 Open to Full-Stack · Forward Deployed · AI/LLM Engineering · Senior Solution Engineering roles**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,12,2&height=140&section=footer" width="100%"/>
 
 </div>
