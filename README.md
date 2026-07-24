@@ -3,9 +3,11 @@
   PRABHAKAR KUMAR  ·  Senior Software Engineer
   GitHub: https://github.com/prabhakar713
   ─────────────────────────────────────────────────────────────
-  This README is optimized for GitHub-flavored Markdown, mobile
-  viewports, and ATS keyword parsing. Every image URL below is
-  served by a public, actively-maintained provider.
+  Rich desktop layout preserved. Only tables that clip on 375px
+  mobile viewports were restructured (4-col → 2×2, 4×2 → 2×4,
+  3×2 project cards → 2×3, and About Me stacked so the YAML
+  <pre> block doesn't overflow). Every image URL served by a
+  currently-healthy public service.
 -->
 
 <!-- ══════════════════════ 1. ANIMATED HEADER ══════════════════════ -->
@@ -49,17 +51,13 @@
 
 <br/><br/>
 
-<!-- Quick-stat capsule row (mobile-safe: percentage widths) -->
+<!-- Quick-stat capsule row — inline badges (wrap naturally on any width). -->
 
-<table>
-  <tr>
-    <td align="center" width="20%"><img src="https://img.shields.io/badge/4%2B-Years%20Experience-0f2027?style=for-the-badge&labelColor=00c6ff" alt="4+ years"/></td>
-    <td align="center" width="20%"><img src="https://img.shields.io/badge/80%25-Effort%20Cut-0f2027?style=for-the-badge&labelColor=00c6ff" alt="80% effort cut"/></td>
-    <td align="center" width="20%"><img src="https://img.shields.io/badge/3-Company%20Awards-0f2027?style=for-the-badge&labelColor=00c6ff" alt="3 awards"/></td>
-    <td align="center" width="20%"><img src="https://img.shields.io/badge/APAC%20%2B%20NA-Enterprise%20Clients-0f2027?style=for-the-badge&labelColor=00c6ff" alt="APAC + NA"/></td>
-    <td align="center" width="20%"><img src="https://img.shields.io/badge/5-Roles%20in%20One-0f2027?style=for-the-badge&labelColor=00c6ff" alt="5 roles in one"/></td>
-  </tr>
-</table>
+<img src="https://img.shields.io/badge/4%2B-Years%20Experience-0f2027?style=for-the-badge&labelColor=00c6ff" alt="4+ years"/>
+<img src="https://img.shields.io/badge/80%25-Effort%20Cut-0f2027?style=for-the-badge&labelColor=00c6ff" alt="80% effort cut"/>
+<img src="https://img.shields.io/badge/3-Company%20Awards-0f2027?style=for-the-badge&labelColor=00c6ff" alt="3 awards"/>
+<img src="https://img.shields.io/badge/APAC%20%2B%20NA-Enterprise%20Clients-0f2027?style=for-the-badge&labelColor=00c6ff" alt="APAC + NA"/>
+<img src="https://img.shields.io/badge/5-Roles%20in%20One-0f2027?style=for-the-badge&labelColor=00c6ff" alt="5 roles in one"/>
 
 </div>
 
@@ -82,13 +80,9 @@ I don't hand off. I don't wait for a ticket. If a customer is blocked at 2 AM, I
 
 <br/>
 
-<!-- ══════════════════════ 5. ABOUT ME ══════════════════════ -->
+<!-- ══════════════════════ 5. ABOUT ME (stacked so YAML <pre> doesn't overflow on mobile) ══════════════════════ -->
 
 ## About Me
-
-<table>
-<tr>
-<td width="60%" valign="top">
 
 Senior Software Engineer based in **Bangalore, India**, currently building a secure Virtual Data Room platform for regulated enterprises. Previously **Senior Solution Engineer at Vymo**, where I owned CRM platform delivery for banks, insurers, and financial institutions across APAC and North America.
 
@@ -100,8 +94,6 @@ I care about three things, in this order:
 
 My comfort zone spans **distributed systems, event-driven architectures, secure authorization (RBAC/ABAC), and LLM-powered product features** — glued together with pragmatic engineering.
 
-</td>
-<td width="40%" valign="top">
 <pre lang="yaml">
 name:         Prabhakar Kumar
 role:         Senior Software Engineer
@@ -116,9 +108,6 @@ domains:
 stack:        polyglot full-stack
 availability: open to select roles
 </pre>
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -161,25 +150,27 @@ Part solution architect, part forward-deployed engineer for banks, insurers, and
 
 <br/>
 
-<!-- ══════════════════════ 7. ENGINEERING PHILOSOPHY ══════════════════════ -->
+<!-- ══════════════════════ 7. ENGINEERING PHILOSOPHY (4-col → 2×2 for mobile) ══════════════════════ -->
 
 ## Engineering Philosophy
 
 <table>
   <tr>
-    <td align="center" width="25%" valign="top">
+    <td align="center" width="50%" valign="top">
       <h3>Ship, then harden</h3>
       A working v1 in production beats a perfect v2 in a slide deck. Then I go back and add the retries, the metrics, the audit trail, and the failure test.
     </td>
-    <td align="center" width="25%" valign="top">
+    <td align="center" width="50%" valign="top">
       <h3>Boring where it matters</h3>
       Postgres, Redis, RabbitMQ, K8s. I reach for the exotic tool only when the boring one has actually run out of runway — not before.
     </td>
-    <td align="center" width="25%" valign="top">
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
       <h3>Own the outcome</h3>
       I write the code, I do the release, I take the on-call page, I write the postmortem. The loop closes on me.
     </td>
-    <td align="center" width="25%" valign="top">
+    <td align="center" width="50%" valign="top">
       <h3>Design for the auditor</h3>
       In BFSI and secure-data work, "it works" is not enough — every action needs to be logged, attributable, and reversible.
     </td>
@@ -250,7 +241,7 @@ Part solution architect, part forward-deployed engineer for banks, insurers, and
 
 <br/>
 
-<!-- ══════════════════════ 10. IMPACT METRICS ══════════════════════ -->
+<!-- ══════════════════════ 10. IMPACT METRICS (4×2 → 2×4 for mobile) ══════════════════════ -->
 
 ## Impact, In Numbers
 
@@ -258,37 +249,41 @@ Part solution architect, part forward-deployed engineer for banks, insurers, and
 
 <table>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="50%">
       <h1>80%</h1>
       reduction in CRM data setup &amp; validation effort via automation
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="50%">
       <h1>2</h1>
       continents of enterprise BFSI clients supported (APAC + NA)
     </td>
-    <td align="center" width="25%">
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <h1>3</h1>
       company awards for engineering, delivery, and innovation impact
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="50%">
       <h1>1st</h1>
       place, Vymothon — internal AI-driven CRM hackathon
     </td>
   </tr>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="50%">
       <h1>4+</h1>
       years shipping enterprise software end-to-end
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="50%">
       <h1>10+</h1>
       microservices designed, deployed, and owned in production
     </td>
-    <td align="center" width="25%">
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <h1>99.9%</h1>
       target availability for secure document workflows
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="50%">
       <h1>0</h1>
       P0 security incidents on services I own
     </td>
@@ -596,13 +591,13 @@ I use LLMs the same way I use any other dependency — **with an eval, a fallbac
 
 <br/>
 
-<!-- ══════════════════════ 17. FEATURED PROJECTS ══════════════════════ -->
+<!-- ══════════════════════ 17. FEATURED PROJECTS (3×2 → 2×3 for mobile) ══════════════════════ -->
 
 ## &nbsp;Featured Projects
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 <h3>Virtual Data Room Platform</h3>
 <sub><i>Senior SWE &middot; Security &middot; Distributed Systems</i></sub>
 <br/><br/>
@@ -610,7 +605,7 @@ Enterprise-grade secure document collaboration. Owned RBAC/ABAC authorization, a
 <br/><br/>
 <code>Node.js</code> <code>RabbitMQ</code> <code>Kubernetes</code> <code>Helm</code> <code>Redis</code> <code>Vault</code> <code>MongoDB</code>
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 <h3>Intelligent Lead Platform</h3>
 <sub><i>AI Engineering &middot; Full-Stack</i></sub>
 <br/><br/>
@@ -618,7 +613,9 @@ AI-driven lead scoring, cohorting, and real-time allocation &mdash; routes leads
 <br/><br/>
 <code>React</code> <code>Next.js</code> <code>TypeScript</code> <code>Python</code> <code>Node.js</code> <code>PostgreSQL</code> <code>MongoDB</code>
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 <h3>CRM Automation Platform</h3>
 <sub><i>Full-Stack &middot; Platform Engineering</i></sub>
 <br/><br/>
@@ -626,9 +623,7 @@ Data setup, validation, scheduling, and broadcast automation for enterprise CRM 
 <br/><br/>
 <code>Node.js</code> <code>Express.js</code> <code>React</code> <code>MongoDB</code> <code>Microservices</code>
 </td>
-</tr>
-<tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 <h3>Voice &rarr; Text</h3>
 <sub><i>Applied AI &middot; Product</i></sub>
 <br/><br/>
@@ -636,7 +631,9 @@ Real-time voice-to-text pipeline with streaming transcription and speaker awaren
 <br/><br/>
 <code>Python</code> <code>Streaming</code> <code>Speech APIs</code> <code>LLM Post-processing</code>
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 <h3>AI Applications</h3>
 <sub><i>LLM &middot; Agents &middot; Prompt Engineering</i></sub>
 <br/><br/>
@@ -644,7 +641,7 @@ Internal AI tools &mdash; document Q&amp;A copilots, agentic workflows on LangGr
 <br/><br/>
 <code>OpenAI</code> <code>LangChain</code> <code>LangGraph</code> <code>FastAPI</code> <code>Redis</code>
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 <h3>More on GitHub</h3>
 <sub><i>Open source &middot; Experiments</i></sub>
 <br/><br/>
