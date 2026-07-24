@@ -82,25 +82,25 @@ I don't hand off. I don't wait for a ticket. If a customer is blocked at 2 AM, I
 ## About Me
 
 <table>
-  <tr>
-    <td width="60%" valign="top">
+<tr>
+<td width="60%" valign="top">
 
 Senior Software Engineer based in **Bangalore, India**, currently building a secure Virtual Data Room platform for regulated enterprises. Previously **Senior Solution Engineer at Vymo**, where I owned CRM platform delivery for banks, insurers, and financial institutions across APAC and North America.
 
 I care about three things, in this order:
+
 1. **Customer outcome** — does the change actually move a metric that matters to the business?
 2. **System integrity** — will it still be correct under load, failure, and adversarial input?
 3. **Team leverage** — did I leave the codebase, docs, or on-call runbook better than I found it?
 
 My comfort zone spans **distributed systems, event-driven architectures, secure authorization (RBAC/ABAC), and LLM-powered product features** — glued together with pragmatic engineering.
 
-    </td>
-    <td width="40%" valign="top">
-
-```yaml
+</td>
+<td width="40%" valign="top">
+<pre lang="yaml">
 name:         Prabhakar Kumar
 role:         Senior Software Engineer
-location:    "Bangalore, India"
+location:     Bangalore, India
 experience:   4+ years
 domains:
   - Enterprise SaaS
@@ -110,10 +110,9 @@ domains:
   - Applied AI / LLM
 stack:        polyglot full-stack
 availability: open to select roles
-```
-
-    </td>
-  </tr>
+</pre>
+</td>
+</tr>
 </table>
 
 <br/>
@@ -123,8 +122,8 @@ availability: open to select roles
 ## Career Timeline
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 ### Senior Software Engineer
 `Feb 2026 — Present`
@@ -137,8 +136,8 @@ Enterprise-grade document collaboration for M&A, due-diligence, and regulated de
 - Shipped on **Kubernetes** with **Helm**, **Redis** caching, and **HashiCorp Vault** for secret rotation.
 - Wrote the audit-logging framework that powers compliance evidence for enterprise customers.
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 ### Senior Solution Engineer · Vymo Technologies
 `Jul 2022 — Feb 2026`
@@ -151,8 +150,8 @@ Part solution architect, part forward-deployed engineer for banks, insurers, and
 - Led **Vymothon** — the internal AI-driven CRM hackathon — winning the *New Innovative Award*.
 - Was the on-site engineer for enterprise rollouts across three continents.
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 <br/>
@@ -582,121 +581,140 @@ I use LLMs the same way I use any other dependency — **with an eval, a fallbac
 
 ## Featured Projects
 
-<div align="center">
-  <a href="https://github.com/prabhakar713/Voice-to-Text">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=prabhakar713&repo=Voice-to-Text&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&text_color=c9d1d9&icon_color=00c6ff"
-      alt="Voice-to-Text pinned repo"
-    />
-  </a>
-</div>
-
-<br/>
-
 <table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Virtual Data Room Platform</h3>
-      <sub><i>Senior SWE · Security · Distributed Systems</i></sub>
-      <br/><br/>
-      Enterprise-grade secure document collaboration. Owned RBAC/ABAC authorization, audit-logging framework, event-driven microservices, and cross-region MongoDB replication.
-      <br/><br/>
-      <code>Node.js</code> <code>RabbitMQ</code> <code>Kubernetes</code> <code>Helm</code> <code>Redis</code> <code>Vault</code> <code>MongoDB</code>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Intelligent Lead Platform</h3>
-      <sub><i>AI Engineering · Full-Stack</i></sub>
-      <br/><br/>
-      AI-driven lead scoring, cohorting, and real-time allocation — routes leads across AI outreach, bot calling, and human sellers based on live signals.
-      <br/><br/>
-      <code>React</code> <code>Next.js</code> <code>TypeScript</code> <code>Python</code> <code>Node.js</code> <code>PostgreSQL</code> <code>MongoDB</code>
-    </td>
-    <td width="33%" valign="top">
-      <h3>CRM Automation Platform</h3>
-      <sub><i>Full-Stack · Platform Engineering</i></sub>
-      <br/><br/>
-      Data setup, validation, scheduling, and broadcast automation for enterprise CRM rollouts. <b>Cut setup time by 80%.</b>
-      <br/><br/>
-      <code>Node.js</code> <code>Express.js</code> <code>React</code> <code>MongoDB</code> <code>Microservices</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Voice → Text</h3>
-      <sub><i>Applied AI · Product</i></sub>
-      <br/><br/>
-      Real-time voice-to-text pipeline with streaming transcription and speaker awareness. Public repo — <a href="https://github.com/prabhakar713/Voice-to-Text">github.com/prabhakar713/Voice-to-Text</a>.
-      <br/><br/>
-      <code>Python</code> <code>Streaming</code> <code>Speech APIs</code> <code>LLM Post-processing</code>
-    </td>
-    <td width="33%" valign="top">
-      <h3>AI Applications</h3>
-      <sub><i>LLM · Agents · Prompt Engineering</i></sub>
-      <br/><br/>
-      Internal AI tools — document Q&amp;A copilots, agentic workflows on LangGraph, and CRM-side LLM assistants for enterprise reps.
-      <br/><br/>
-      <code>OpenAI</code> <code>LangChain</code> <code>LangGraph</code> <code>FastAPI</code> <code>Redis</code>
-    </td>
-    <td width="33%" valign="top">
-      <h3>More on GitHub</h3>
-      <sub><i>Open source · Experiments</i></sub>
-      <br/><br/>
-      Sandbox projects across TypeScript, Python, and infra tooling — the place I try things before they show up in production.
-      <br/><br/>
-      <a href="https://github.com/prabhakar713?tab=repositories">
-        <img src="https://img.shields.io/badge/Browse%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse repos"/>
-      </a>
-    </td>
-  </tr>
+<tr>
+<td width="33%" valign="top">
+<h3>Virtual Data Room Platform</h3>
+<sub><i>Senior SWE &middot; Security &middot; Distributed Systems</i></sub>
+<br/><br/>
+Enterprise-grade secure document collaboration. Owned RBAC/ABAC authorization, audit-logging framework, event-driven microservices, and cross-region MongoDB replication.
+<br/><br/>
+<code>Node.js</code> <code>RabbitMQ</code> <code>Kubernetes</code> <code>Helm</code> <code>Redis</code> <code>Vault</code> <code>MongoDB</code>
+</td>
+<td width="33%" valign="top">
+<h3>Intelligent Lead Platform</h3>
+<sub><i>AI Engineering &middot; Full-Stack</i></sub>
+<br/><br/>
+AI-driven lead scoring, cohorting, and real-time allocation &mdash; routes leads across AI outreach, bot calling, and human sellers based on live signals.
+<br/><br/>
+<code>React</code> <code>Next.js</code> <code>TypeScript</code> <code>Python</code> <code>Node.js</code> <code>PostgreSQL</code> <code>MongoDB</code>
+</td>
+<td width="33%" valign="top">
+<h3>CRM Automation Platform</h3>
+<sub><i>Full-Stack &middot; Platform Engineering</i></sub>
+<br/><br/>
+Data setup, validation, scheduling, and broadcast automation for enterprise CRM rollouts. <b>Cut setup time by 80%.</b>
+<br/><br/>
+<code>Node.js</code> <code>Express.js</code> <code>React</code> <code>MongoDB</code> <code>Microservices</code>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<h3>Voice &rarr; Text</h3>
+<sub><i>Applied AI &middot; Product</i></sub>
+<br/><br/>
+Real-time voice-to-text pipeline with streaming transcription and speaker awareness. Built as an applied-AI exploration on top of streaming speech APIs and LLM post-processing.
+<br/><br/>
+<code>Python</code> <code>Streaming</code> <code>Speech APIs</code> <code>LLM Post-processing</code>
+</td>
+<td width="33%" valign="top">
+<h3>AI Applications</h3>
+<sub><i>LLM &middot; Agents &middot; Prompt Engineering</i></sub>
+<br/><br/>
+Internal AI tools &mdash; document Q&amp;A copilots, agentic workflows on LangGraph, and CRM-side LLM assistants for enterprise reps.
+<br/><br/>
+<code>OpenAI</code> <code>LangChain</code> <code>LangGraph</code> <code>FastAPI</code> <code>Redis</code>
+</td>
+<td width="33%" valign="top">
+<h3>More on GitHub</h3>
+<sub><i>Open source &middot; Experiments</i></sub>
+<br/><br/>
+Sandbox projects across TypeScript, Python, and infra tooling &mdash; the place I try things before they show up in production.
+<br/><br/>
+<a href="https://github.com/prabhakar713?tab=repositories">
+<img src="https://img.shields.io/badge/Browse%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse repos"/>
+</a>
+</td>
+</tr>
 </table>
 
 <br/>
 
-<!-- ══════════════════════ 18–20. GITHUB ANALYTICS + STREAK + TOP LANGS ══════════════════════ -->
+<!-- ══════════════════════ 18–22. GITHUB ANALYTICS + STREAK + TOP LANGS + TROPHIES ══════════════════════ -->
 
 ## GitHub Analytics
 
 <div align="center">
 
+<!-- Reliable primary stat row (shields.io dynamic badges — always render) -->
+<a href="https://github.com/prabhakar713?tab=repositories">
+  <img src="https://img.shields.io/github/followers/prabhakar713?style=for-the-badge&label=Followers&color=00c6ff&labelColor=0f2027&logo=github&logoColor=white" alt="Followers"/>
+</a>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fprabhakar713&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=00c6ff&labelColor=0f2027&logo=github&logoColor=white" alt="Public repos"/>
+<a href="https://github.com/prabhakar713?tab=stars">
+  <img src="https://img.shields.io/github/stars/prabhakar713?style=for-the-badge&label=Stars&color=00c6ff&labelColor=0f2027&logo=github&logoColor=white&affiliations=OWNER" alt="Stars"/>
+</a>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fprabhakar713&query=%24.created_at&label=On%20GitHub%20Since&style=for-the-badge&color=00c6ff&labelColor=0f2027&logo=github&logoColor=white" alt="Since"/>
+
+<br/><br/>
+
+<!-- Cards from streak-stats.demolab.com (DenverCoder1's own host, very reliable)
+     and github-readme-activity-graph.vercel.app (reliable). -->
 <img
-  src="https://github-readme-stats.vercel.app/api?username=prabhakar713&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00c6ff&icon_color=00c6ff&text_color=c9d1d9"
-  width="49%"
-  alt="GitHub Stats"
-/>
-<img
-  src="https://streak-stats.demolab.com?user=prabhakar713&theme=tokyonight&hide_border=true&background=0d1117&stroke=00c6ff&ring=00c6ff&fire=00c6ff&currStreakLabel=00c6ff"
+  src="https://streak-stats.demolab.com?user=prabhakar713&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C6FF&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF"
   width="49%"
   alt="GitHub Streak"
+/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=prabhakar713&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400"
+  width="49%"
+  alt="GitHub Stats"
 />
 
 <br/><br/>
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhakar713&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0d1117&title_color=00c6ff&text_color=c9d1d9"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=prabhakar713&theme=react-dark&hide_border=true&bg_color=0d1117&color=00c6ff&line=00c6ff&point=ffffff&area=true&area_color=00c6ff"
+  width="100%"
+  alt="Contribution activity graph"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhakar713&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=86400"
   width="49%"
   alt="Top Languages"
 />
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=prabhakar713&theme=react-dark&hide_border=true&bg_color=0d1117&color=00c6ff&line=00c6ff&point=ffffff&area=true&area_color=00c6ff"
+  src="https://ghchart.rshah.org/00c6ff/prabhakar713"
   width="49%"
-  alt="Activity Graph"
+  alt="Contribution chart"
 />
 
 </div>
 
 <br/>
 
-<!-- ══════════════════════ 22. GITHUB TROPHY ══════════════════════ -->
+<!-- ══════════════════════ 22. GITHUB TROPHIES (resilient version) ══════════════════════ -->
 
 ## GitHub Trophies
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=prabhakar713&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"
-      alt="GitHub Trophies"
-    />
-  </a>
+
+<a href="https://github.com/prabhakar713">
+  <img src="https://github-profile-trophy.vercel.app/?username=prabhakar713&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies"/>
+</a>
+
+<br/><br/>
+
+<!-- Static recognition strip: always renders even when github-profile-trophy is down. -->
+<img src="https://img.shields.io/badge/%F0%9F%A5%87-Hackathon%20Winner-0f2027?style=for-the-badge&labelColor=00c6ff" alt="Hackathon Winner"/>
+<img src="https://img.shields.io/badge/%E2%AD%90-Raising%20the%20Bar-0f2027?style=for-the-badge&labelColor=00c6ff" alt="Raising the Bar"/>
+<img src="https://img.shields.io/badge/%E2%9A%A1-Lightning%20Bolt%20Team-0f2027?style=for-the-badge&labelColor=00c6ff" alt="Lightning Bolt Team"/>
+<img src="https://img.shields.io/badge/%F0%9F%94%92-Zero%20P0%20Security%20Incidents-0f2027?style=for-the-badge&labelColor=00c6ff" alt="Zero P0"/>
+<img src="https://img.shields.io/badge/%F0%9F%8C%8F-APAC%20%2B%20NA%20Delivery-0f2027?style=for-the-badge&labelColor=00c6ff" alt="APAC + NA"/>
+
 </div>
 
 <br/>
