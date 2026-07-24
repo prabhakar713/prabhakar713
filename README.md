@@ -1066,14 +1066,6 @@ Cold recruiter blasts, unpaid "quick chats", or crypto-in-name-only roles. Every
   alt="Footer wave"
 />
 
-<sub>
-  Built with care · every image URL live at time of writing · optimized for desktop, mobile, and ATS parsers.
-  <br/>
-  If this profile made you pause — that was the point.
-  <br/><br/>
-  <a href="https://github.com/prabhakar713"><b>github.com/prabhakar713</b></a>
-</sub>
-
 </div>
 
 <!--
